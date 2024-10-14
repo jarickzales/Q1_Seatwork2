@@ -1,0 +1,32 @@
+#container1{
+    background-color:rgb(88, 88, 88);
+    text-align: center;
+}
+
+.container2{
+    background-color:rgb(200, 200, 200);
+    width: 263px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+}
+
+body{
+    background-image:url('https://i1.sndcdn.com/artworks-hLrs1MjvXjhYDPn2-es2JCA-t500x500.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+label{
+    font-size: 15px;
+    font-family: 'Times New Roman';
+}
+
+#submit{
+    border-radius: 10px;
+    font-size: 23px;
+    cursor: pointer;
+}
